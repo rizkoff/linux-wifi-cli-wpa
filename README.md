@@ -8,3 +8,4 @@ wpa_passphrase myrouter > wpa.conf
 cat wpa.conf >> /etc/wpa_supplicant/wpa_supplicant.conf
 
 wpa_supplicant -Dwext -iwlan0 -c/etc/wpa_supplicant/wpa_supplicant.conf
+dhclient wlan0
