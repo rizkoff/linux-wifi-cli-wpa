@@ -1,5 +1,5 @@
 # linux-wifi-cli-wpa
-HOWTO: linux (worked @paspbian) wifi cli wpa commands
+HOWTO: linux (worked @raspbian) wifi cli wpa commands
 
 https://askubuntu.com/questions/138472/how-do-i-connect-to-a-wpa-wifi-network-using-the-command-line
 
